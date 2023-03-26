@@ -10,7 +10,10 @@ Calculadora em React: https://github.com/olivalpaulino/calculadora <br>
 Método Vendedora Digital (Projeto em Html e Css): https://github.com/olivalpaulino/metodovendedoradigital <br>
 Relatório de Doenças Respiratórias (Java + Csv): https://github.com/olivalpaulino/Relat-rio-Doen-as-Respirat-rias <br>
 Boletim Diário (Java + Csv): https://github.com/olivalpaulino/Boletim-Diario <br>
-Cadastro de Pacientes com Java e Arquivos: https://github.com/olivalpaulino/cadastro-de-pacientes-java-io
+Cadastro de Pacientes com Java e Arquivos: https://github.com/olivalpaulino/cadastro-de-pacientes-java-io <br>
+Conheça os 32 Livros Digitais (Html e Css): https://viladev.com.br/livros/ <br>
+Conheça os 37 Livros mais Vendidos da Atualidade (React): https://livrosdigitais.netlify.app/ <br>
+Conheça a Fórmula de Crescimento Rápido (Html e Css): https://viladev.com.br/formuladocrescimentorapido/
 
 ## Canal do Youtube
 
