@@ -14,23 +14,30 @@ Cadastro de Pacientes com Java e Arquivos: https://github.com/olivalpaulino/cada
 
 ## Canal do Youtube
 
-Acesse Aqui:
+Acesse Aqui: https://www.youtube.com/@olivalpaulino
 
 ## Playlist Java:
 
-
+Acesse Aqui: https://www.youtube.com/playlist?list=PLf-aKpXauSaZnZ6FKXJekDzi67XrN3__t
 
 ## Playlist JavaScript:
 
-
+Acesse Aqui: https://www.youtube.com/playlist?list=PLf-aKpXauSaZVETUNFk1sG7tjFcwPnULr
 
 ## Playlist Html/Css:
 
+Acesse Aqui: https://www.youtube.com/playlist?list=PLf-aKpXauSaawEp4cGmMQ-5as9Oyw-2TT
 
+## Projetos com Html e Css Responsivo:
 
-## Cursos Udemy:
+Acesse Aqui: https://www.youtube.com/watch?v=bxD4YU_oHZc&list=PLf-aKpXauSaa9RD4UpBV26zY7lWo3GtrG
 
+## Treinamentos Udemy:
 
+Treinamento JavaScript do Básico ao Avançado: https://www.udemy.com/course/javascript-com-orientacao-a-objetos-e-dom-aprenda-rapido/?couponCode=F158D14301BAF8E33B83 <br>
+Treinamento de Criação de Janelas com Java e Swing: https://www.udemy.com/course/desenvolva-um-sistema-em-java/?couponCode=295AE979B6E5EC689804 <br>
+Trenamento Elimando Crenças Limitantes: https://www.udemy.com/course/crencas-limitantes/?couponCode=48F7F8FF0476AC88EA02
+Treinamento Mestre das Comissões: https://www.udemy.com/course/renda-extra-na-internet-com-produtos-fisicos-e-digitais/?couponCode=42C4E9CCE1D238D83008
 
 ## LinkedIn
 
