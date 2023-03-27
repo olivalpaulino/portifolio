@@ -60,7 +60,7 @@ const Perfil = () => {
         <h2>Conheça Meus Treinamentos da Udemy</h2>
         <Treinamento nomeDoCurso={"JavaScript com Orientação a Objetos, Programação Assíncrona e Dom"} link={"https://www.udemy.com/course/javascript-com-orientacao-a-objetos-e-dom-aprenda-rapido/?couponCode=F158D14301BAF8E33B83"} />
         <Treinamento nomeDoCurso={"Java - Criando um Software de Janela Interativas que Manipula Dados"} link={"https://www.udemy.com/course/desenvolva-um-sistema-em-java/?couponCode=295AE979B6E5EC689804"} />
-        <Treinamento nomeDoCurso={"Mentalide de Sucesso - Eliminando Crenças Limitates"} link={"https://www.udemy.com/course/crencas-limitantes/?couponCode=48F7F8FF0476AC88EA02"} />
+        <Treinamento nomeDoCurso={"Mentalidade de Sucesso - Eliminando Crenças Limitates"} link={"https://www.udemy.com/course/crencas-limitantes/?couponCode=48F7F8FF0476AC88EA02"} />
       </section>
 
       <Rodape />
