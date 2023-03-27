@@ -1,6 +1,6 @@
 # Meu Portifólio
 
-Aqui, você encontrará alguns dos meus projetos em Html, Css, JavaScript, Java, Spring Boot e React. Seja bem-vind@ e espero que goste.
+Aqui, você encontrará alguns dos meus projetos em Html, Css, JavaScript, Java, Spring Boot e React. Seja bem-vind@ e espero que goste. Acesse: https://portifolio-olivalpaulino.netlify.app/
 
 ## Projetos
 
