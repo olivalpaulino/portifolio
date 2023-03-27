@@ -19,7 +19,10 @@ const Perfil = () => {
         <Titulo nome={"Olival Paulino"} stacks={"{ Java | MySQL | Maven | Node.js | ReactJS }"} descricao={"Cientista da Computação, Especializado em Segurança da Informação, Desenvolvedor Back-end e Front-end."} />
       </header>
 
+      <hr />
+
       <section id="contato" class="dados">
+        <h2>Contatos:</h2>
         <Contato email={"olivalpaulinocc@gmail.com"} telefone1={"(82) 98210-7078"} telefone2={"(82) 98118-4294"} linkedin={"https://www.linkedin.com/in/olivalpaulino/"} github={"https://github.com/olivalpaulino/"} instagram={"https://www.instagram.com/olivalpaulino/"} youtube={"https://www.youtube.com/@olivalpaulino/playlists"} />
       </section>
 
