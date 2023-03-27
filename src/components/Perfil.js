@@ -4,6 +4,7 @@ import Titulo from './Titulo';
 import Formacao from './Formacao';
 import Experiencia from './Experiencia';
 import Contato from './Contato';
+import Rodape from './Rodape';
 
 const Perfil = () => {
   return (
@@ -51,7 +52,12 @@ const Perfil = () => {
         <Experiencia cargo={"Gerente de Tecnologia"} instituicao={"UPA Dra. Helenilda Veloso Pimentel Canales"} periodo={"2019 a 2021"} atividades={"Gestão de Dados, treinamentos de profissionais de saúde, administração de sistemas de saúde, interação com prestadores, desenvolvimento de filtros automatizados para relatórios."} />
         <Experiencia cargo={"Técnico de Informática"} instituicao={"Secretaria Municipal de Saúde"} periodo={"2018 a 2019"} atividades={"Transformação Digital, gestão de dados, planilhas, formulários digitais, suporte técnico presencial e remoto."} />
       </section>
+
+      <hr />
+
+      <Rodape />
     </div>
+    
   )
 }
 
