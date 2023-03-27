@@ -1,7 +1,7 @@
 const Formacao = ({nomeDoCurso, local}) => {
   return (
     <div>
-        <h3>{nomeDoCurso} - {local}</h3>
+        <h3 id="formacao">{nomeDoCurso} - {local}</h3>
     </div>
   )
 }
