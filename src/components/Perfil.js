@@ -5,6 +5,7 @@ import Formacao from './Formacao';
 import Experiencia from './Experiencia';
 import Contato from './Contato';
 import Rodape from './Rodape';
+import Treinamento from './Treinamento';
 
 const Perfil = () => {
   return (
@@ -15,7 +16,7 @@ const Perfil = () => {
       </header>
 
       <section class="contato">
-        <Contato email={"olivalpaulinocc@gmail.com"} telefone1={"(82) 98210-7078"} telefone2={"(82) 98118-4294"} linkedin={"https://www.linkedin.com/in/olivalpaulino/"} github={"https://github.com/olivalpaulino/"} />
+        <Contato email={"olivalpaulinocc@gmail.com"} telefone1={"(82) 98210-7078"} telefone2={"(82) 98118-4294"} linkedin={"https://www.linkedin.com/in/olivalpaulino/"} github={"https://github.com/olivalpaulino/"} instagram={"https://www.instagram.com/olivalpaulino/"} youtube={"https://www.youtube.com/@olivalpaulino/playlists"} />
       </section>
 
       <hr />
@@ -46,7 +47,7 @@ const Perfil = () => {
 
       <hr />
 
-      <section>
+      <section class="experiencia">
         <h2>Experiência Profissional</h2>
         <Experiencia cargo={"Professor de Programação"} instituicao={"Freelancer"} periodo={"2022 a 2023"} atividades={"Aulas online via Teams/Zoom de Java e JavaScript"} />
         <Experiencia cargo={"Gerente de Tecnologia"} instituicao={"UPA Dra. Helenilda Veloso Pimentel Canales"} periodo={"2019 a 2021"} atividades={"Gestão de Dados, treinamentos de profissionais de saúde, administração de sistemas de saúde, interação com prestadores, desenvolvimento de filtros automatizados para relatórios."} />
@@ -54,6 +55,13 @@ const Perfil = () => {
       </section>
 
       <hr />
+
+      <section class="udemy">
+        <h2>Conheça Meus Treinamentos da Udemy</h2>
+        <Treinamento nomeDoCurso={"JavaScript com Orientação a Objetos, Programação Assíncrona e Dom"} link={"https://www.udemy.com/course/javascript-com-orientacao-a-objetos-e-dom-aprenda-rapido/?couponCode=F158D14301BAF8E33B83"} />
+        <Treinamento nomeDoCurso={"Java - Criando um Software de Janela Interativas que Manipula Dados"} link={"https://www.udemy.com/course/desenvolva-um-sistema-em-java/?couponCode=295AE979B6E5EC689804"} />
+        <Treinamento nomeDoCurso={"Mentalide de Sucesso - Eliminando Crenças Limitates"} link={"https://www.udemy.com/course/crencas-limitantes/?couponCode=48F7F8FF0476AC88EA02"} />
+      </section>
 
       <Rodape />
     </div>
